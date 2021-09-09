@@ -14,9 +14,9 @@ TODO:
 - [x] OCR
 - [x] TTS
 - [x] iPhone/iPad Siri SSH Control RaspberryPi
-- [ ] Page Turning
-- [ ] Bluetooth Connection
-- [ ] Raspberry Pi Camera
+- [x] Page Turning
+- [x] Bluetooth Connection
+- [x] Raspberry Pi Camera
 
 
 
